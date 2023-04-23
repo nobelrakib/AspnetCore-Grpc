@@ -3,3 +3,11 @@
 ################################################################################
 
 /GrpcHelloWorldServer/GrpcGreeter/bin/Debug/net5.0
+/GrpcHelloWorldServer/.vs/GrpcHelloWorldServer/v16
+/GrpcHelloWorldServer/GrpcGreeter/obj
+/GrpcHelloWorldServer/GrpcHelloWorldServer/obj
+/GrpcHelloWorldServer/GrpcHelloWorldServer/bin/Debug/net5.0
+/GrpcHelloWorldServer/GrpcHelloWorldCLient/bin/Debug/net5.0
+/GrpcHelloWorldServer/GrpcHelloWorldCLient/obj
+/GrpcHelloWorldServer/GrpcGreeterClient/bin/Debug/net5.0
+/GrpcHelloWorldServer/GrpcGreeterClient/obj
