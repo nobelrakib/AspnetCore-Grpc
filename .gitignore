@@ -11,3 +11,9 @@
 /GrpcHelloWorldServer/GrpcHelloWorldCLient/obj
 /GrpcHelloWorldServer/GrpcGreeterClient/bin/Debug/net5.0
 /GrpcHelloWorldServer/GrpcGreeterClient/obj
+/GrpcMicroservices/.vs
+/GrpcMicroservices/ProductGrpc/bin/Debug/net5.0
+/GrpcHelloWorldServer/.vs/GrpcHelloWorldServer/DesignTimeBuild/.dtbcache.v2
+/GrpcMicroservices/ProductGrpc/obj
+/GrpcMicroservices/ProductGrpc.Client/bin/Debug/net5.0
+/GrpcMicroservices/ProductGrpc.Client/obj
