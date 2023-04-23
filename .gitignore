@@ -17,3 +17,5 @@
 /GrpcMicroservices/ProductGrpc/obj
 /GrpcMicroservices/ProductGrpc.Client/bin/Debug/net5.0
 /GrpcMicroservices/ProductGrpc.Client/obj
+/GrpcMicroservices/ProductWorkerService/bin/Debug/net5.0
+/GrpcMicroservices/ProductWorkerService/obj

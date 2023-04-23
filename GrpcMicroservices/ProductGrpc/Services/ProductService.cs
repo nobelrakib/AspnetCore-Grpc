@@ -87,7 +87,7 @@ namespace ProductGrpc.Services
         public override async Task<ProductModel> UpdateProduct(UpdateProductRequest request, ServerCallContext context)
         {
             var product = _mapper.Map<Product>(request.Product);
-
+            //kk
             bool isExist = await _productDbContext.Product.AnyAsync(p => p.ProductId == product.ProductId);
             if (!isExist)
             {
