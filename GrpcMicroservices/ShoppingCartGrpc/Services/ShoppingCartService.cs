@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace ShoppingCartGrpc.Services
 {
+    [Authorize]
     public class ShoppingCartService : ShoppingCartProtoService.ShoppingCartProtoServiceBase
     {
         private readonly DiscountService _discountService;

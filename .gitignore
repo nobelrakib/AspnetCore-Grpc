@@ -25,3 +25,5 @@
 /GrpcMicroservices/DiscountGrpc/obj
 /GrpcMicroservices/ShoppingCartWorkerService/bin/Debug/net5.0
 /GrpcMicroservices/ShoppingCartWorkerService/obj
+/GrpcMicroservices/IdentityServer/bin/Debug/net5.0
+/GrpcMicroservices/IdentityServer/obj
